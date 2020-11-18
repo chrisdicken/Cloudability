@@ -1,2 +1,2 @@
 # Cloudability
-making the Cloudability API work for you
+Making the Cloudability API work for you
